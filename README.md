@@ -1,6 +1,6 @@
 ### Hello 👋 My name is Krzysztog
 
-- 🔭Currently studying [Data Science](https://ww2.mini.pw.edu.pl/studia/inzynierskie-i-licencjackie/inzynieria-i-analiza-danych/) at [Warsaw University of Technology](https://www.pw.edu.pl/), 2nd year. Learning subjects like: Machine Learning, Data Visualisation Techniques, Exploratory Data Analysis, Algorithms and Data Structures, Probability, Statistics, Numerical Methods. As a student in the field of data analysis, I want to develop further in the field of data science and programming. 
+- 🔭Currently studying [Data Science](https://ww2.mini.pw.edu.pl/studia/inzynierskie-i-licencjackie/inzynieria-i-analiza-danych/) at [Warsaw University of Technology](https://www.pw.edu.pl/), 2nd year.
 
 - 🤝 Im interested in Data Science.  I am a fast lerner and I am constantly working on my data analysis and visualization skills. 
 
