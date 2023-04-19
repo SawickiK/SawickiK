@@ -1,4 +1,4 @@
-### Hello 👋 My name is Krzysztog
+### Hello 👋 My name is Krzysztof
 
 - 🔭Currently studying [Data Science](https://ww2.mini.pw.edu.pl/studia/inzynierskie-i-licencjackie/inzynieria-i-analiza-danych/) at [Warsaw University of Technology](https://www.pw.edu.pl/), 2nd year.
 
